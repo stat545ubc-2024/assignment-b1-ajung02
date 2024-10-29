@@ -1,7 +1,7 @@
 # Assignment B1 - Creating Functions
 
 The function that I am wanting to create is one that will take a file
-(either a CSV, Excel, or TXT file) and input it into a dataframe.
+(either a CSV, Excel, or TXT file) and input it into a data frame.
 
 ## Exercise 1
 
