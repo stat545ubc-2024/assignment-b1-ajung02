@@ -1,5 +1,8 @@
 # Assignment B1 - Creating Functions
 
+The function that I am wanting to create is one that will take a file
+(either a CSV, Excel, or TXT file) and input it into a dataframe.
+
 ## Exercise 1
 
 ``` r
@@ -50,3 +53,7 @@ load_file_to_df <- function(file_path) {
 #'
 #' @export
 ```
+
+## Exercise 3
+
+## Exercise 4
